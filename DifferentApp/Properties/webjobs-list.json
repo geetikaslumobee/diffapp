@@ -1,0 +1,8 @@
+﻿{
+  "$schema": "http://schemastore.org/schemas/json/webjobs-list.json",
+  "WebJobs": [
+    {
+      "filePath": "../sensor2diffappwebjobfeb10/sensor2diffappwebjobfeb10.csproj"
+    }
+  ]
+}
